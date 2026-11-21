@@ -1,3 +1,4 @@
+// entry: the family photograph ships baked into the program.
 // Family Photo With One Machine Member — writes the entry photograph to /output/entry.png.
 // The photograph is baked into the program: the sandbox has no network, so the image ships with it.
 import * as fs from "node:fs";
